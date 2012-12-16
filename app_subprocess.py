@@ -1,3 +1,5 @@
+## Based on http://emptysquare.net/motor/pymongo/api/motor/tutorial.html
+
 import apscheduler.scheduler
 import motor
 import tornado.httpserver
